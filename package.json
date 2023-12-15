@@ -1,0 +1,28 @@
+{
+  "name": "com.fms.inventory",
+  "version": "0.0.1",
+  "displayName": "Inventory",
+  "description": "Author: Jorge Nauel Gerones.\nThis is a grid based dynamic inventory plugin",
+  "unity": "2021.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JorgeGerones/com.jng.core.git"
+  },
+  "keywords": [
+    "GameEngine",
+    "Core",
+    "JNG"
+  ],
+  "author": {
+    "name": "Fractured Mesh Studios",
+    "email": "gerones.jorge@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": ""
+  }
+}
